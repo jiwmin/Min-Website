@@ -1,10 +1,10 @@
 ---
-title: Slides
-summary: An introduction to using Wowchemy's Slides feature.
-authors: []
+title: The Role of Emotion Dysregulation in Borderline Personality - An ecological momentary assessment study. 
+summary: In S. N. Mullins-Sweatt (Chair). Emotion dysregulation as a biopsychosocial mechanism of borderline personality disorder. [Symposium]. 
+authors: [Min, J., Helle, A. C., Meyer, N. A., Walgren, M. D., Hein, K. E., Butler, J. S., Mason, C. K., McDaniel, C. J. Grant, D. M., Wells, T. T., Mullins-Sweatt S. N. ]
 tags: []
 categories: []
-date: '2019-02-05T00:00:00Z'
+date: '2021-10-21 T00:00:00Z'
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
